@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning dynamic testing of API
 - 💞️ Love to build solutios based on dockers.
 - 🛫 Cofigured synthetic monitoring based on AWS Lambda & headless browsers
+- :snowboarder: Node.js runtime
 - 📫 Connect me on telegram - @den_pavliuk, linkedin - https://www.linkedin.com/in/denys-pavlyuk-706307123/
 
 <!---
