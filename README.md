@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Den
-- 👀 I’m interested in automating processes to speeding up development, testing, monitoring and deployments code
-- 🌱 I’m currently learning dynamic testing of API
-- 💞️ Love to build solutios based on dockers.
+- 👀 I’m interested in automating processes to speed up the development, testing, monitoring, and deployment of code.
+- 🌱 skilled automation engineer that develop, and maintained test solutions, ensuring high performance, reliability, and scalability.
+- 💞️ Love to build solutions based on dockers.
 - 🛫 Cofigured synthetic monitoring based on AWS Lambda & headless browsers
 - :snowboarder: Node.js runtime
 - 📫 Connect me on telegram - @den_pavliuk, linkedin - https://www.linkedin.com/in/denys-pavlyuk-706307123/
