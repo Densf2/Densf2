@@ -1,9 +1,10 @@
-- 👋 Hi, I’m Den
+- 👋 Hi, I’m Den.
 - 👀 I’m interested in automating processes to speed up the development, testing, monitoring, and deployment of code.
-- 🌱 skilled automation engineer that develop, and maintained test solutions, ensuring high performance, reliability, and scalability.
+- 🌱 Skilled automation engineer that develop, and maintained test solutions, ensuring high performance, reliability, and scalability.
 - 💞️ Love to build solutions based on dockers.
-- 🛫 Cofigured synthetic monitoring based on AWS Lambda & headless browsers
-- :snowboarder: Node.js runtime
+- 🛫 Cofigured synthetic monitoring based on AWS Lambda & headless browsers.
+- ⚓  Proficiency in scripting web applications and APIs.
+- :snowboarder: Node.js runtime.
 - 📫 Connect me on telegram - @den_pavliuk, linkedin - https://www.linkedin.com/in/denys-pavlyuk-706307123/
 
 <!---
