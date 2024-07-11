@@ -2,6 +2,7 @@
 - 👀 I’m interested in automating processes to speed up the development, testing, monitoring, and deployment of code.
 - 🌱 Skilled automation engineer that develop, and maintained test solutions, ensuring high performance, reliability, and scalability.
 - 💞️ Love to build solutions based on docker.
+- ⏫ ISTQB certified tester
 - 🛫 Cofigured synthetic monitoring based on AWS Lambda & headless browsers.
 - ⚓ Good skills in automated test scripts for web and APIs.
 - :snowboarder: Node.js runtime.
