@@ -4,6 +4,7 @@
 - 💞️ Love to build solutions based on docker.
 - ⏫ ISTQB certified tester
 - ⏫ GITHUB certified user
+- ⏫ AWS Cloud Practitioner cerified
 - 🛫 Cofigured synthetic monitoring based on AWS Lambda & headless browsers.
 - ⚓ Good skills in automated test scripts for web and APIs.
 - :snowboarder: Node.js runtime.
